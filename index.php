@@ -1,3 +1,3 @@
 <?php
-	echo "primer commir rama 1";
-	echo "primer commir rama 2";
+	echo "1";
+	echo "2";çecho "3";
