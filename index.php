@@ -1,3 +1,4 @@
 <?php
 	echo "1";
-	echo "2";çecho "3";
+	echo "2";
+	echo "4";
